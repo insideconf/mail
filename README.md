@@ -1,6 +1,6 @@
 # Inside Conf
 
-### Request
+### Mail Request
 
 Heads and Organizers must requests your own e-mail @insideconf.com with [Thiago Barradas](mailto:thiago.barradas@insideconf.com).
 
